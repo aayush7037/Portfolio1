@@ -27,7 +27,7 @@ body{
 .mountain{
 
 	position: relative;
-	left:70px;
+	align: center;
 	top:25px;
 	height: 60%;
 	width: 50%;
